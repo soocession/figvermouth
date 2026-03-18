@@ -79,7 +79,7 @@ FRED API 키 입력 후 자동 로드. **별도 작업 없음.**
 
 ---
 
-### ③ 크로스 커런시 베이시스 (CIP 베이시스)
+### ③
 
 **EUR/USD만 수동 입력**이 필요하고, 나머지 통화는 CIP 산식에 따라 자동 계산됩니다.
 
@@ -90,7 +90,7 @@ FRED API 키 입력 후 자동 로드. **별도 작업 없음.**
 
 ---
 
-### ⑦ MMF 자금 이동 (ICI)
+### ⑦
 
 ICI 엑셀 파일 업로드 → Government / Prime / Tax-Exempt 구성요소별 자동 분석
 
@@ -101,7 +101,7 @@ ICI 엑셀 파일 업로드 → Government / Prime / Tax-Exempt 구성요소별 
 
 ---
 
-### ⑨ Primary Dealer Net Position
+### ⑨ 
 
 **다운로드:**
 1. https://www.newyorkfed.org/markets/counterparties/primary-dealers-statistics 접속
@@ -113,7 +113,7 @@ ICI 엑셀 파일 업로드 → Government / Prime / Tax-Exempt 구성요소별 
 
 ---
 
-### ⑩ DQM (달러 품질 모니터) + COT 보고서
+### ⑩ 
 
 #### A) FRED 데이터
 탭⑩ 화면 내 FRED API 패널에서 같은 키를 한 번 더 입력하고 **⬇ FRED 로드** 클릭.
@@ -134,7 +134,7 @@ ICI 엑셀 파일 업로드 → Government / Prime / Tax-Exempt 구성요소별 
 
 ---
 
-### ⑪ 글로벌 무역금융
+### ⑪ 
 
 **BDI (발틱 드라이 인덱스) CSV:**
 1. https://www.investing.com/indices/baltic-dry-historical-data 접속
@@ -147,7 +147,7 @@ ICI 엑셀 파일 업로드 → Government / Prime / Tax-Exempt 구성요소별 
 
 ---
 
-### ⑫ CDS · FX 복합 신호
+### ⑫
 
 **CDS 데이터:**
 1. https://www.worldgovernmentbonds.com/sovereign-cds/ 접속

@@ -203,7 +203,7 @@ NY Fed 데이터 자동 연동 — 탭 진입 시 자동 로드.
 |----|------|------|
 | ①②④⑤⑥⑧⑬ | 자동 | FRED API |
 | ⑦ MMF | 주 1회 (목) | 엑셀 수동 |
-| ⑨ Primary Dealer | 주 1회 (목) | NY Fed CSV |
+| ⑨ Primary Dealer | 주 1회 (목) | NY Fed CSV 수동 |
 | ⑩ COT | 주 1회 (금) | CFTC 수동 |
 | ⑪ BDI | 필요 시 | CSV 수동 |
 | ⑫ CDS | 월 1~2회 | 엑셀 수동 |

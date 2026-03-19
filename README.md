@@ -105,7 +105,7 @@ ICI 엑셀 파일 업로드 → Government / Prime / Tax-Exempt 구성요소별 
 
 **다운로드:**
 1. https://www.newyorkfed.org/markets/counterparties/primary-dealers-statistics 접속
-2. time-series-data에서 표가 나올 수 있는 하단까지 클릭 후 상단 두번째 **EXPORT** 버튼 클릭
+2. time-series-data에서 표가 나올 수 있는 하단(세부범주)까지 클릭 후 상단 두번째 **EXPORT** 버튼 클릭
 3. **All time series data** 선택 → CSV 다운로드
 4. 탭⑨ 업로드 영역에 드래그앤드롭
 
